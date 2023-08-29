@@ -35,6 +35,7 @@ hr {
 
 .navbar {
     justify-content: center;
+    background-color: black;
 }
 
 .custom-toggler .navbar-toggler-icon {
