@@ -41,6 +41,7 @@ hr {
 .navbar-brand {
     position: absolute;
     left: 10px;
+    top: 5px;
 }
 
 .custom-toggler .navbar-toggler-icon {
