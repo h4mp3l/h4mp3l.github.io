@@ -155,17 +155,20 @@ hr {
 
 #main {
     background-color: black;
+    padding: 70px 0;
 }
 
 #programm {
     background-color: black;
     text-align: center;
     position: relative;
+    padding: 70px 0;
 }
 
 #band {
     color:#f3258e;
     background-color: black;
+    padding: 70px 0;
 }
 
 #meinungen {
@@ -173,11 +176,13 @@ hr {
     text-align: center;
     background-color: black;
     color: aqua;
+    padding: 70px 0;
 }
 
 #contact {
     text-align: center;
     background-color: black;
+    padding: 70px 0;
 }
 
 #footer{
