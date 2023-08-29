@@ -1,0 +1,191 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat Black", sans-serif; 
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    line-height: 1.5;
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 200;
+    text-align: center;
+    color: #f3258e;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: black;
+}
+
+hr {
+    border-color: aqua;
+    width: 80%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.navbar {
+    justify-content: center;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(243,37,142)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+  
+.custom-toggler .navbar-toggler {
+    border-color: rgb(243,37,142);
+} 
+
+.nav-link {
+    font-family: "Montserrat";
+    color:aqua;
+    font-size: 1rem;
+    margin: 0 15px;
+}
+
+.nav-link:hover {
+    color:#f3258e;
+}
+
+
+.pubcake-image {
+    width: 80%;
+    margin: 0 10%;
+    border-radius: 25px;
+}
+
+.program-container {
+    color: aqua;
+    border-color: aqua;
+    border-radius: 10px;
+    width: 70%;
+    margin: 40px 15%;
+    justify-content: center;
+}
+
+.col-item {
+    margin: 10px 0;
+}
+
+.carousel-inner {
+    justify-content: center;
+    height: 100%;
+}
+
+.carousel-inner > .carousel-item > .band-card {
+    margin: 0 auto;
+}
+
+.band-card {
+    background-color: black;
+    border-color: #ff0067;
+    max-width: 500px;
+}
+
+.band-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    border-color: aqua;
+}
+
+.card-title {
+    color: #f3258e;
+}
+
+.card-text {
+    color: aqua;
+}
+
+.pink-gradient {
+    background: linear-gradient(40deg, #ff0067, #ff589e);
+}
+
+.band-card .avatar {
+    width: 120px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 5px solid aqua;
+    border-radius: 50%;
+}
+
+.testimonial-image {
+    width: 80px;
+    border-radius:  100%;
+    margin: 20px;
+}
+
+.padded-carousel-item {
+    padding: 40px 15%;
+}
+
+.footer-icon {
+    padding: 10px 10px;
+    color:#f3258e;
+}
+
+.contact-us {
+    color: aqua;
+}
+
+.contact-link {
+    color: aqua;
+    font-weight: bold;
+}
+
+.contact-link:hover{
+    color: #f3258e;
+}
+
+#title {
+    background-color: black;
+    color: #f3258e;
+}
+
+#main {
+    background-color: black;
+}
+
+#programm {
+    background-color: black;
+    text-align: center;
+    position: relative;
+}
+
+#band {
+    color:#f3258e;
+    background-color: black;
+}
+
+#meinungen {
+
+    text-align: center;
+    background-color: black;
+    color: aqua;
+}
+
+#contact {
+    text-align: center;
+    background-color: black;
+}
+
+#footer{
+    background-color: black;
+    color:#f3258e;
+    text-align: center;
+    padding: 3% 0% 1%;
+}
+
+#footer-paragraph{
+font-size: 0.8rem;
+}
