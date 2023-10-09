@@ -146,6 +146,15 @@ hr {
     color:#f3258e;
 }
 
+.footer-link {
+    color:#f3258e;
+    font-size: 0.8rem;
+}
+
+.footer-link:hover {
+    color: aqua;
+}
+
 .contact-us {
     color: aqua;
 }
